@@ -1,0 +1,19 @@
+
+a:hover {
+    font-size: 50px;
+}
+
+a:link {
+    text-decoration: overline;
+}
+
+a:active {
+    color: blueviolet;
+    background-color: brown;
+}
+
+a:visited {
+    color: forestgreen;
+    text-decoration-color: hotpink;
+}
+        

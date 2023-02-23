@@ -1,3 +1,14 @@
+#mi-titulo1 {
+    color: blue;
+}
+
+.titulos {
+    color:red;
+}
+
+.imagenes {
+    text-align: center;
+}
 
 a:hover {
     font-size: 50px;
